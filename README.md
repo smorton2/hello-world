@@ -1,2 +1,5 @@
 # hello-world
-Hello World Intro and Random Practice
+
+Hi!
+
+I'm Stephen.  I'm an engineer turned analyst.  This will be my playground to try out new stuff.
